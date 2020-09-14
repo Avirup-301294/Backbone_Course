@@ -1,0 +1,61 @@
+.jumbo{
+  /* margin-top: 10px; */
+  padding-top: 70px;
+  width:75%;
+}
+/* jumbotron's text */
+.text{
+  text-align: center;
+}
+/* jumbotron image */
+.jumbotron{
+  background-image: url('/imgs/data3.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: #ffffff
+
+}
+/* welcome-text */
+.wel_text{
+  text-align: inherit;
+}
+.color{
+  color: #ffffff
+}
+/* makeing jumbotron to a div */
+.jum{
+  height:400px;
+}
+.wel_button{
+    padding-top: 70px;
+}
+.overview{
+  text-align: center;
+  font-family: sans-serif;
+  padding-bottom: 5px;
+
+}
+.courses{
+  width:84%;
+  height:auto;
+  padding-left:15%;
+  background: "grey";
+}
+.thumbnail{
+  height:290px;
+  width:250px;
+}
+.footer {
+  position: fixed static;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: #e3f2fd;
+  color: #000111;
+  text-align: center;
+  padding-top: 15px;
+}
+.icon{
+  height:2px;
+  width:2px;
+}
